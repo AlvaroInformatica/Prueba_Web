@@ -1,0 +1,66 @@
+.fondopag{
+    background-image: url(../img/fondoweb1.jpg);
+}
+
+/*div img{}*/
+
+.fondonegro{
+    background-color: black;
+}
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.carousel {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.accordion-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;}
+
+    .accordion {
+        width: 50%; 
+        background-color: green; 
+        border-radius: 8px; 
+        padding: 10px; 
+        margin-left: 25%;
+      }
+
+
+      head,body{
+        background-image: url(../img/);
+      }
+
+      p{
+        color: white;
+      }
+
+      .negro{
+        color: black;
+      }
+
+      .blanco{
+        color: white;
+      }
+      ul{
+        list-style: none;
+      }
+      .icono {
+        font-size: 2rem;
+        margin: 10px;
+    }
+.centro{
+    text-align: center;
+}
+
+.pie{
+    background-color: aquamarine; 
+}
